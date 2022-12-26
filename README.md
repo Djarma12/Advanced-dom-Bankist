@@ -28,7 +28,7 @@ Creating ReadMe's for your Github repository can be tedious. I hope this templat
 - HTML
 - CSS
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#advanced-dom-bankist)
 
 ---
 
@@ -42,14 +42,14 @@ To start the project, it is necessary to download the files from the github repo
 <p>dummy code</p>
 ```
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#advanced-dom-bankist)
 
 ---
 
 ## References
 
 Where I learn.
-[Back To The Top](#read-me-template)
+[Back To The Top](#advanced-dom-bankist)
 
 ---
 
@@ -69,4 +69,4 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#advanced-dom-bankist)
