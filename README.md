@@ -1,7 +1,7 @@
 # Advanced-dom-Bankist
 
 ![Project Image](project-image-url)
-(https://dusan-easybank-landing-page.netlify.app/))
+[Advanced-dom-Bankist](https://dusan-easybank-landing-page.netlify.app/)
 > A brief description of your project. This can be a few sentences or a paragraph, depending on the complexity of your project.
 
 ---
