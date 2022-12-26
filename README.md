@@ -12,10 +12,9 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Getting Started](#getting-tarted)
+- [Getting Started](#getting-started)
 - [References](#references)
 - [License](#license)
-- [Author Info](#author-info)
 
 ---
 
