@@ -1,7 +1,7 @@
 # Advanced-dom-Bankist
 
 ![My Image](img/user-1.jpg)
-![rodan-can-6cqJPeTIuls-unsplash](https://user-images.githubusercontent.com/112414082/209929029-07082e9f-49e8-4b11-a6db-bb5df9577bdd.jpg)
+![rodan-can-6cqJPeTIuls-unsplash](https://user-images.githubusercontent.com/112414082/209929029-07082e9f-49e8-4b11-a6db-bb5df9577bdd.jpg = 500x400)
 
   
 [Advanced-dom-Bankist](https://dusan-easybank-landing-page.netlify.app/)
