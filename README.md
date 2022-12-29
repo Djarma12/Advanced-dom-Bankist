@@ -5,7 +5,7 @@
   src="img/user-1.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 600px">
   
 [Advanced-dom-Bankist](https://dusan-easybank-landing-page.netlify.app/)
 > A brief description of your project. This can be a few sentences or a paragraph, depending on the complexity of your project.
