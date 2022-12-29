@@ -1,12 +1,8 @@
 # Advanced-dom-Bankist
 
 ![My Image](img/user-1.jpg)
-<img
-  src="img/user-1.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 a![rodan-can-6cqJPeTIuls-unsplash](https://user-images.githubusercontent.com/112414082/209928962-90642cf0-c1e7-4c2b-863c-5eb031bcd83a.jpg)
-uto; max-width: 600px">
+![rodan-can-6cqJPeTIuls-unsplash](https://user-images.githubusercontent.com/112414082/209929029-07082e9f-49e8-4b11-a6db-bb5df9577bdd.jpg)
+
   
 [Advanced-dom-Bankist](https://dusan-easybank-landing-page.netlify.app/)
 > A brief description of your project. This can be a few sentences or a paragraph, depending on the complexity of your project.
