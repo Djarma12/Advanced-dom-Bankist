@@ -1,17 +1,13 @@
 # Advanced-dom-Bankist
 
-![My Image](img/user-1.jpg)
-![rodan-can-6cqJPeTIuls-unsplash](https://user-images.githubusercontent.com/112414082/209929029-07082e9f-49e8-4b11-a6db-bb5df9577bdd.jpg = 500x400)
+The project is built with an advanced DOM and effects that include a mix of smooth scrolling, lazy loading images and sliders.
 
-  
-[Advanced-dom-Bankist](https://dusan-easybank-landing-page.netlify.app/)
-> A brief description of your project. This can be a few sentences or a paragraph, depending on the complexity of your project.
+You can view the project live here:
+[Advanced-dom-Bankist](https://advanced-dom-bankist.netlify.app/)
 
 ---
 
 ### Table of Contents
-
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Getting Started](#getting-started)
@@ -22,12 +18,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious. I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+It was very difficult for me to understand and work with the observer api. With his help, I was set when the sticky navigation and lazy loading images should appear. In this project I also learned how to set up a slider component, event delegation and dom traversing.
 
 #### Technologies
 
 - HTML
 - CSS
+- JS
 
 [Back To The Top](#advanced-dom-bankist)
 
@@ -37,19 +34,14 @@ Creating ReadMe's for your Github repository can be tedious. I hope this templat
 
 To start the project, it is necessary to download the files from the github repository and run them on the live server.
 
-#### API Reference
-
-```html
-<p>dummy code</p>
-```
-
 [Back To The Top](#advanced-dom-bankist)
 
 ---
 
 ## References
 
-Where I learn.
+- I made this project with the help of Jonas Schmedtmann in the JavaScript course: [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/)
+
 [Back To The Top](#advanced-dom-bankist)
 
 ---
